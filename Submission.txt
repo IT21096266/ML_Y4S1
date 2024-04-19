@@ -1,0 +1,5 @@
+Dataset - https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
+
+GitHub repository - https://github.com/IT21096266/ML_Y4S1.git
+
+Youtube video - https://www.youtube.com/watch?v=ZPBOG82T2zI
